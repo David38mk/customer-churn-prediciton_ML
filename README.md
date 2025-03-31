@@ -9,27 +9,27 @@ churn, helping businesses retain their customers.
 
 Installation
 
-Clone the repository:
+    Clone the repository:
 
-git clone https://github.com/David38mk/customer-churn-prediciton_ML
+        git clone https://github.com/David38mk/customer-churn-prediciton_ML
 
-Navigate to the project directory:
+    Navigate to the project directory:
 
-cd customer-churn-prediction
+        cd customer-churn-prediction
 
-Install the required dependencies:
+    Install the required dependencies:
 
-pip install -r requirements.txt
+        pip install -r requirements.txt
 
-Usage
+    Usage
 
-Run the Jupyter notebooks for data exploration and modeling:
+        Run the Jupyter notebooks for data exploration and modeling:
 
-jupyter notebook
+        jupyter notebook
 
-To launch the web app (if implemented):
+    To launch the web app (if implemented):
 
-streamlit run app.py
+    streamlit run app.py
 
 Project Structure
 
@@ -44,27 +44,27 @@ customer-churn-prediction/
 
 Results
 
-The model achieved an accuracy of XX% on the test set, indicating its ability
-to effectively predict customer churn. Visualizations and insights can be found
-in the reports directory.
+    The model achieved an accuracy of XX% on the test set, indicating its ability
+    to effectively predict customer churn. Visualizations and insights can be found
+    in the reports directory.
 
 Technologies Used
 
-Python
+    Python
 
-Scikit-learn
+    Scikit-learn
 
-Pandas
+    Pandas
 
-NumPy
+    NumPy
 
-Matplotlib
+    Matplotlib
 
-Seaborn
+    Seaborn
 
-Flask / Streamlit (for deployment)
+    Flask / Streamlit (for deployment)
 
-Contributing
+    Contributing
 
 Feel free to fork this repository and submit pull requests.
 
